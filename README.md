@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Goyal</h1>
 <h3 align="center">A passionate frontend developer and Problem solver from India</h3>
-<img align = "centre" alt = "coding" width = "500" src = "[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGprMnBwa3M1ZTUyajd3cnlvNmM5eWxwaTk4NnBpdWp4aHJjMG44bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif](https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif)">
+<img align = "centre" alt = "coding" width = "500" src = "https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1781&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu1781" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu1781" alt="himanshu1781" /></a> </p>
